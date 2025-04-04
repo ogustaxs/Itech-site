@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MacBook Air</title>
+    <link rel="stylesheet" href="mac.css">
+</head>
+<body>
+    <table border="">
+        <tr class="header">
+            <td colspan>
+                <img src="img/logoSite.png" alt="">
+            </td>
+            <td></td>  <td>
+                <input id="busca" type="text" placeholder="Busca aqui...">
+                <div class="subtitulo">
+                    <a href="">Iphone</a>
+                    <a href="">Mac</a>
+                    <a href="">Apple Watch</a>
+                    <a href="">iPad</a>
+                    <a href="">AirPods</a>
+                    <a href="">Àudio</a>
+                    <a href="">Acessórios</a>
+                    <a href="">Ofertas</a>
+                </div>
+                <td class="iconeUser" colspan="2">
+                    <img src="img/iconeUsuário.png" alt="">
+                <td style="color: white; text-align: left;"> Bem vindo! <br>Entre ou cadastre-se</td>
+                <td id="carrinho"><img src="img/iconeCarrinho.png" alt=""></td> 
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="tlt">Conheça o Mac</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td colspan="3"><img src="image 1.png" alt=""></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    
+</body>
+</html>

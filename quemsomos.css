@@ -1,0 +1,78 @@
+* { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0; text-decoration: none;}
+table {
+    width : 100% ; 
+    height : 98vh;
+    border-collapse: collapse;
+}
+td{
+    box-sizing: border-box;
+    padding: 10px;
+}
+.header{
+    width: 100%;
+    height: 15vh;
+    background-color: black;
+}
+
+.header td{
+    text-align: center;
+}
+
+
+#busca {
+    width : 40% ;
+    margin-bottom: 20px;
+    padding : 3px ; 
+    font-size: 20px ;
+    text-align: center;
+    }
+        
+    .iconeUser{
+        color: white;
+        width: 5%;
+    }
+
+.subtitulo a{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.tlt {
+    text-align: center;
+    width: 15%;
+}
+
+.tlt span{
+    font-size: 36px;
+    color: black;
+    font-weight: bold;
+    text-align: left;
+}
+
+.tlt h6 {
+    font-size: 30px;
+    text-align: left;
+}
+
+.texto{
+    font-size: 30px;
+    width: 35%;
+}
+
+.subtlt{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 24px;
+    text-align: center;
+}
+
+.tituloexp {
+    text-align: center;
+    padding-top: 11%;
+    font-size: 25px;
+    opacity: 50%;
+}

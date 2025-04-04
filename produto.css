@@ -1,0 +1,246 @@
+* { font-family: Arial, Helvetica, sans-serif; margin: 0; padding: 0;}
+table {
+    width : 100% ; 
+    height : 98vh;
+    border-collapse: collapse;
+}
+td{
+    box-sizing: border-box;
+    padding: 10px;
+}
+.header{
+    width: 100%;
+    height: 15vh;
+    background-color: black;
+}
+
+.header td{
+    text-align: center;
+}
+
+#busca {
+width : 40% ;
+margin-bottom: 20px;
+padding : 3px ; 
+font-size: 20px ;
+text-align: center;
+}
+    
+.iconeUser{
+    color: white;
+    width: 5%;
+}
+
+
+.subtitulo a {
+    font-size: 20px ;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-decoration: none;
+    margin-left: 10px ;
+    margin-right: 10px ;
+}
+.tltLeft{
+    vertical-align: text-top;
+}
+.tltLeft h2{
+    height:fit-content;
+    margin-top: 30%;
+    text-align: center;
+}
+
+.tltLeft p{
+    text-align: left;
+    margin-left: 10% ;
+    font-size: 14px ;
+    margin-top: 2% ;
+}
+
+.tltLeft h5{
+    font-size: 18px;
+    color: black;
+    font-weight: 100;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.tltLeft select{
+    margin-top: 2%;
+    margin-left: 10%;
+    outline: none;
+    border: 1px solid #ccc;
+    color: rgba(0, 0, 0, 0.5);
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.tltLeft h4{
+    font-size: 16px;
+    color: black;
+    font-weight: 100;
+    margin-top: 2%;
+
+}
+
+.tltLeft input,
+.tltLeft h4{
+    display: inline-block;
+}
+
+.tltLeft .checkbox{
+    margin-left: 10%;
+}
+
+.tltLeft .result {
+    text-align: center;
+    
+}
+
+.img16 {
+    width: 100px;
+    padding-left:60px ;
+    padding-right: 46px;
+    vertical-align: top;
+    text-align: center;
+}
+
+.img16 p{
+    margin-top: 3%;
+}
+
+.card-container{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 20px;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding: 10px;
+    box-shadow: 0px 2px 8px black;
+    margin: 0 auto;
+}
+
+.card-container img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.imgIphone {
+    height: 120px;
+
+}
+
+.tltCompre {
+    vertical-align: top;
+    width: 120px;
+    padding-left:60px ;
+    padding-right: 46px;
+    padding-top: 30px ;
+    padding-bottom: 50%;
+    vertical-align: top;
+    text-align: center;
+}
+
+#linhadois { 
+    height: 25px;
+}
+
+#carrinho {
+     text-align: left;
+     
+    }
+
+    .cantoLeft {
+        text-align: center;
+        margin-top: auto;
+    }
+
+    .tltCompre {
+        font-size: 20px;
+    }
+#linhatres{
+    height: 150px;
+}
+
+#negrito{
+    font-weight: bold;
+}
+
+#sublinhado{
+    text-decoration: underline;
+}
+
+#linha4{
+    height: 50px;
+}
+
+.descontoTitle{
+    text-align: center;
+    font-size: 24px;
+}
+
+.img16b {
+    width: 137px;
+    height: 137px ;
+    margin-top: 2%;
+    padding-top: 0px;
+ 
+}
+
+#linha5{
+    height: 300px;
+}
+
+#linha5 td{
+    vertical-align: top;
+}
+
+.container-image{
+    position: relative;
+    text-align: center;
+}
+
+.container-image .desconto{
+    width: 50px;
+    height: 25px;
+    background-color: #50B800;
+    text-align: center;
+    vertical-align: text-bottom;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    box-sizing: border-box;
+    padding: 2px;
+}
+
+.container-image .desconto h2{
+    font-size: 17px;
+    margin: auto auto;
+}
+
+.preco-antigo{
+    text-decoration: line-through;
+    color: rgba(0, 0, 0, 0.5);
+    margin-bottom: 2%;
+}
+
+.info-product h4{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.tlt {
+    text-align: center;
+}
+
+.vazia{
+    width: 100px;
+}
+
+.cards{
+    width: 20%;
+}
+
+

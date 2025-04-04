@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="produto.css">
+</head>
+<body>
+    <table border>
+        <tr class="header">
+            <td colspan="3">
+                <img src="img/logoSite.png" alt="">
+            </td>
+            
+            <td colspan="10 ">
+                <input id="busca" type="text" placeholder="Busca aqui...">
+                <div class="subtitulo">
+                    <a href="">Iphone</a>
+                    <a href="">Mac</a>
+                    <a href="">Apple Watch</a>
+                    <a href="">iPad</a>
+                    <a href="">AirPods</a>
+                    <a href="">Àudio</a>
+                    <a href="">Acessórios</a>
+                    <a href="">Ofertas</a>
+                </div>
+             </td>
+            <td class="iconeUser" colspan="2">
+                <img src="img/iconeUsuário.png" alt="">
+                
+                
+
+            </td>
+            <td styles="color: white;">Bem vindo ! Entre ou cadastre-se</td>
+            <td 
+            class="carrinho" colspan="3">carrinho <img src="img/iconeCarrinho.png" alt=""></td>
+            
+        </tr>
+        <tr>
+            <td class="tltLeft"> 
+                <h2>Iphone 16</h2>
+                <p class="result ">6 resultados</p> 
+                <h5>Ordenar por:</h5>
+                <select>
+                    <option>Mais Vendidos</option>
+                </select>
+                <h5>Capacidade</h5>
+                <div>
+                    <input type="checkbox" class="checkbox">
+                    <h4>256GB</h4>
+                </div>
+                <div>
+                    <input type="checkbox" class="checkbox">
+                    <h4>512GB</h4>
+                </div>
+                <div>
+                    <input type="checkbox" class="checkbox">
+                    <h4>1TB</h4>
+                </div>
+                <h5>Cor:</h5>
+                <p>Titânio preto</p>
+                <p>Titânio-deserto</p>
+                <p>Titânio branco</p>
+                <p>Titânio natural</p>
+                <p>Branco</p>
+                <p>Ultramarino</p>
+                <p>Rosa</p>
+                <p>Preto</p>
+                <p>Verde-acinzentado</p>
+            </td>
+            <td id="td1">
+                
+            </td>
+            <td></td>
+            <td></td>
+            <td class="img16">
+                <img class="imgIphone"  src="Iphone16.png " alt="">
+            <p>iPhone 16</p>
+            </td>
+
+            <td class="img16">
+                <img class="imgIphone" src="Iphone16pluspng" alt="">
+            <p>iPhone 16 Plus </p>
+            </td>
+
+            <td class="img16">
+                <img class="imgIphone" src="Iphone16Pro.png" alt="">
+            <p>iPhone 16 Pro</p>
+            </td>
+
+            <td class="img16 "> 
+                <img class="imgIphone" src="Iphone16PM.png" alt="">
+            <p>iPhone 16 Pro Max </p>
+            </td>
+
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td class="tltCompre" colspan="10">Compre iPhone 16 você ganha 16% de desconto em acessórios</td>
+            
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</body>
+</html>
